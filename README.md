@@ -18,4 +18,4 @@ me = {
 
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbary-Theo&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbary-Theo&layout=compact)](https://github.com/Barbary-Theo/github-readme-stats)
