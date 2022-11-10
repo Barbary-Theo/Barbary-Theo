@@ -4,7 +4,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbary-Theo&layout=compact) 
 
 
-[![Barbary's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Barbary-Theo)](https://wakatime.com/@Barbabidule)
-
-
-![Barbary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbary-Theo&show_icons=true&theme=radical)
+[![Barbary's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Barbabidule)](https://wakatime.com/@Barbabidule)
